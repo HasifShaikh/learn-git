@@ -1,5 +1,8 @@
 public class Engine {
 
+
+
+  int x=0;
   private String[][] board;
   private String[] symbols;
   private static final int BOARD_SIZE = 3;
